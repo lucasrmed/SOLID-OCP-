@@ -1,0 +1,33 @@
+				SOLID
+
+O princípio open Close é nos auxilia a desenhar um software que seja fácil de modificar, 
+e que não sofre com o impacto das mesmas. A uma das
+grande dificuldades hoje em dia em termos de desenvolvimento de software, esta relacionada a manutenção
+
+
+
+					PONTO UM, INDAGAÇÂO
+Como estar aberto a mudanças no projeto e ao mesmo tempo manter estabilidade em meu código?
+COM ABSTRAÇÂO!
+
+se tivermos o habito de criar novas classes, sempre teremos classes mais estaveis
+ou implementações daquelas abstrações
+
+Quando uma mudança dessas acaba causando uma série de mudanças em cascata, fica claro que nosso design não 
+está bom pois, além de mais trabalho para alterarmos, ainda podemos nos esquecer de algumas dessas partes do código.
+
+usamos o opc quando a medida de mundaça na regra de negocio!
+
+
+
+
+Extension method: 
+quando criamos um metodo dentro da classe mas ele se comporta como se fosse o metodo da outra classe. 
+e para criamos um precisamos que a classe 
+seja estatica e o metodo tbm, pois na hora de compilar o computador vai entender que a classe nao 
+tem um estado, ela so ta sendo resepresentada
+ 
+
+
+
+
